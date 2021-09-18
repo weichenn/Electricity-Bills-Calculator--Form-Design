@@ -6,4 +6,4 @@ Users will key in only the total monthly consumption (kWh) and any arrears of ho
 
 Please note that this calculator is only a guide, and based on the normal billing cycle, it is for reference only.
 
-📙 This code is only for assignent purpose, not for bussiness use.
+📙 This is only for assignment purpose, not for business use.
