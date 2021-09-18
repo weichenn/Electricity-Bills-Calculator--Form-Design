@@ -7,4 +7,6 @@ You may take other charges or rebates into consideration, such as taxes, previou
 
 Please note that this calculator is only a guide, and based on the normal billing cycle, it is for reference only.
 
+
+
 Refer: Main Reference: https://www.tnb.com.my/ >> Billing; Pricing & Tariff
